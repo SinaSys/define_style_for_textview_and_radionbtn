@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="define_style_for_textview_and_radionbtn/app" />
+      <module fileurl="file://$PROJECT_DIR$/define_style_for_textview_and_radionbtn.iml" filepath="$PROJECT_DIR$/define_style_for_textview_and_radionbtn.iml" group="define_style_for_textview_and_radionbtn" />
+    </modules>
+  </component>
+</project>
